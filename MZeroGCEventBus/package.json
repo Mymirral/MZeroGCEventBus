@@ -1,0 +1,13 @@
+{
+  "name": "com.mymirral.mzerogceventbus",
+  "version": "1.0.0",
+  "displayName": "MZeroGCEventBus",
+  "description": "A high-performance, zero-GC allocation event bus system for Unity.",
+  "unity": "2021.3",
+  "dependencies": {},
+  "keywords": ["eventbus", "unity", "zero-gc", "performance"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mymirral/MZeroGCEventBus.git"
+  }
+}
