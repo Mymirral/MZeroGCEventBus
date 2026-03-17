@@ -4,7 +4,10 @@
   "displayName": "MZeroGCEventBus",
   "description": "A high-performance, zero-GC allocation event bus system for Unity.",
   "unity": "2021.3",
-  "dependencies": {},
+  "author": {
+    "name": "Mirral",
+    "url": "https://github.com/Mymirral"
+  },
   "keywords": ["eventbus", "unity", "zero-gc", "performance"],
   "repository": {
     "type": "git",
