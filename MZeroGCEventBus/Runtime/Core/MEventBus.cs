@@ -1,8 +1,8 @@
 
 
-using MZeroGCEventBus.Core.Interface;
+using MZeroGCEventBus.Runtime.Core.Interface;
 
-namespace MZeroGCEventBus.Core
+namespace MZeroGCEventBus.Runtime.Core
 {
     public class MEventBus
     {

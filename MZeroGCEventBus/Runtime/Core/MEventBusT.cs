@@ -1,7 +1,7 @@
 using System;
-using MZeroGCEventBus.Core.Interface;
+using MZeroGCEventBus.Runtime.Core.Interface;
 
-namespace MZeroGCEventBus.Core
+namespace MZeroGCEventBus.Runtime.Core
 {
     public static class MEventBusT<T>
     {

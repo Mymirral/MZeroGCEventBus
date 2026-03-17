@@ -1,4 +1,4 @@
-namespace MZeroGCEventBus.Core
+namespace MZeroGCEventBus.Runtime.Core
 {
     
     //相当于乘客的凭证

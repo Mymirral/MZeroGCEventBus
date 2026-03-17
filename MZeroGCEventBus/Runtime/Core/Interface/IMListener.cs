@@ -1,4 +1,4 @@
-namespace MZeroGCEventBus.Core.Interface
+namespace MZeroGCEventBus.Runtime.Core.Interface
 {
     public interface IMListener<T>
     {
