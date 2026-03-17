@@ -7,7 +7,7 @@ namespace MZeroGCEventBus.Runtime.Core
     {
         //相对于座位编号，乘客上车时，给予凭证，凭证号用来标记乘客的座位号
         //用来标记订阅位，保证Unsubscribe时不会取消订阅错事件
-        public struct ListenerSlot
+        private struct ListenerSlot
         {
             public IMListener<T> listener;
             public int version;

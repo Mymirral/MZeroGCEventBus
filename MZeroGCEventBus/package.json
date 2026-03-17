@@ -1,5 +1,5 @@
 {
-  "name": "com.mymirral.mzerogceventbus",
+  "name": "com.mirral.mzerogceventbus",
   "version": "1.0.0",
   "displayName": "MZeroGCEventBus",
   "description": "A high-performance, zero-GC allocation event bus system for Unity.",
