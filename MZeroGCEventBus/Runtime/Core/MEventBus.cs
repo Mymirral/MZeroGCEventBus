@@ -6,7 +6,7 @@ namespace MZeroGCEventBus.Runtime.Core
 {
     public class MEventBus
     {
-        public MEventHandle Subscribe<T>(IMListener<T> listener)
+        public static MEventHandle Subscribe<T>(IMListener<T> listener)
         {
             return MEventBusT<T>.Subscribe(listener);
         }
